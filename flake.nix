@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs = {
-      url = "github:NixOS/nixpkgs?ref=nixpkgs-unstable";
+      url = "github:NixOS/nixpkgs?ref=pull/407981/head";
     };
     nixos-apple-silicon = {
       url = "github:nix-community/nixos-apple-silicon?ref=pull/315/head";
