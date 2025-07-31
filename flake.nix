@@ -5,7 +5,6 @@
     };
     nixos-apple-silicon = {
       url = "github:nix-community/nixos-apple-silicon?ref=pull/315/head";
-      flake = false;
     };
     nixpkgs-muvm = {
       url = "github:NixOS/nixpkgs?ref=refs/pull/397932/head";
